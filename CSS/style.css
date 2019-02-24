@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Almendra|Roboto');
+
+
+@import url("Components/container.css");
+@import url("Components/Haras.css");
+@import url("Components/Button.css");
+@import url("Components/Banner.css");
+@import url("Components/banner1.css");
+@import url("Components/banner2.css");
+@import url("Components/banner3.css");
+@import url("Components/card.css");
+@import url("Components/box.css");
+
+body{
+	font-family: 'Lora';
+	font-size: 18px;
+	margin: auto;
+}
+
+h1,h2,h3{
+	font-family: 'Almendra';
+	font-weight: bold;
+	color: white;
+}
+
+a{
+	text-decoration: none;
+	font-size: 35px;
+	color:white;
+	margin: 15px;
+}
+
+ul{
+	font-size: 19px;
+	color: white;
+}
+
+p{
+	font-size: 15px;
+	color: white;
+}
